@@ -1,0 +1,98 @@
+[
+    {
+        "_id": 1,
+        "name": "Living Room",
+        "images": [
+            {
+                "img": "../../src/assets/ProductImage/sofa1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/sofa2.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/sofa1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/sofa3.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/sofa4.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/sofa3.jpg"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Bed Room",
+        "images": [
+            {
+                "img": "../../src/assets/ProductImage/bed1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/bed2.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/bed1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/bed3.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/bed4.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/bed3.jpg"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Dining Room",
+        "images": [
+            {
+                "img": "../../src/assets/ProductImage/dining1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/dining2.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/dining1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/dining3.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/dining4.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/dining3.jpg"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Light",
+        "images": [
+            {
+                "img": "../../src/assets/ProductImage/light1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/light2.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/light1.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/light3.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/light4.jpg"
+            },
+            {
+                "img": "../../src/assets/ProductImage/light3.jpg"
+            }
+        ]
+    }
+]

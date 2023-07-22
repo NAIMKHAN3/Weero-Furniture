@@ -1,0 +1,92 @@
+[
+    {
+        "_id": 1,
+        "name": "Two bed",
+        "img": "../../src/assets/ProductImage/bed3.jpg",
+        "sku": "A-463",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"3200",
+        "newPrice":"2800"
+    },
+    {
+        "_id": 2,
+        "name": "Family Table",
+        "img": "../../src/assets/ProductImage/dining2.jpg",
+        "sku": "A-926",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"1300",
+        "newPrice":"1100"
+    },
+    {
+        "_id": 3,
+        "name": "Modern Sofa",
+        "img": "../../src/assets/ProductImage/sofa1.jpg",
+        "sku": "A-478",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"1800",
+        "newPrice":"1600"
+    },
+    {
+        "_id": 4,
+        "name": "Lights Table",
+        "img": "../../src/assets/ProductImage/light1.jpg",
+        "sku": "B-482",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"2300",
+        "newPrice":"1900"
+    },
+    {
+        "_id": 5,
+        "name": "Victorian Sofa",
+        "img": "../../src/assets/ProductImage/sofa4.jpg",
+        "sku": "B-378",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"2000",
+        "newPrice":"1500"
+    },
+    {
+        "_id": 6,
+        "name": "Bed",
+        "img": "../../src/assets/ProductImage/bed4.jpg",
+        "sku": "A-393",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"1600",
+        "newPrice":"1100"
+    },
+    {
+        "_id": 7,
+        "name": "Dining Table",
+        "img": "../../src/assets/ProductImage/dining4.jpg",
+        "sku": "A-459",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"1900",
+        "newPrice":"1500"
+    },
+    {
+        "_id": 8,
+        "name": "Wall Light",
+        "img": "../../src/assets/ProductImage/light3.jpg",
+        "sku": "A-357",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"2200",
+        "newPrice":"1700"
+    },
+    {
+        "_id": 9,
+        "name": "Guest Sofa",
+        "img": "../../src/assets/ProductImage/sofa3.jpg",
+        "sku": "A-110",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"2599",
+        "newPrice":"2100"
+    },
+    {
+        "_id": 10,
+        "name": "Bed",
+        "img": "../../src/assets/ProductImage/bed1.jpg",
+        "sku": "B-367",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, harum.",
+        "oldPrice":"1900",
+        "newPrice":"1600"
+    }
+]
